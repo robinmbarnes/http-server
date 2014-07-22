@@ -1,0 +1,11 @@
+{
+	"name": "cacheable-http-server",
+	"description": "Simple cacheable http server",
+	"author": "Robin Barnes <robinmbarnes@gmail.com>",
+	"dependencies": {
+		"connect": ">= 3.0.*",
+		"serve-static": ">= 1.*",
+		"vhost": ">= 2.*"
+	}
+}
+
