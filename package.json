@@ -1,5 +1,6 @@
 {
-	"name": "cacheable-http-server",
+	"name": "http-server",
+        "version": "1.0.1",
 	"description": "Simple cacheable http server",
 	"author": "Robin Barnes <robinmbarnes@gmail.com>",
 	"dependencies": {
